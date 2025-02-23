@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jack Venerus
+Sudent Email:  jgveneru@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+The first and second portions of the assignment, where I had to input the lines and call them were relatively simple. It used the homework from last week, as well as the streamlit elements from class. The third portion however, was more difficult. I struggled with going between files and doing the uploads. the part that really got me was when I had to dump it all into a json file. I originally attempted to write into the json, but that wasnt effective. One thing that was very helpful was how to read the file and split it. that was something that I knew previously, but implementing it into the third version was difficult when implementing recursivity.
